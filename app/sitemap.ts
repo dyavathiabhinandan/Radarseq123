@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { projects } from '@/lib/data';
 
-const siteUrl = 'https://dyavathiabhinandan.github.io/Radarseq123';
+const siteUrl = 'https://radarseq.ai';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sections = [
