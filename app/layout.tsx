@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   },
   description:
     'RadarSeq research connects behavioural histories over time to help teams understand changing risk, inspect evidence and shape decisions.',
-  metadataBase: new URL('https://radarseq.ai/'),
+  metadataBase: new URL('https://dyavathiabhinandan.github.io/Radarseq123/'),
   alternates: {
     canonical: '/',
   },
@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     images: ['/opengraph-image.png'],
   },
   icons: {
-    icon: '/icon.svg',
-    shortcut: '/icon.svg',
+    icon: '/Radarseq123/icon.svg',
+    shortcut: '/Radarseq123/icon.svg',
   },
 };
 
